@@ -1,0 +1,1011 @@
+/*! 'xxl' applies to x-large devices (large desktops, less than 1400px) */
+@media (min-width: 1400px) {
+  /** large desktops */
+}
+/*! 'xl' applies to large devices (desktop, less than 1200px) */
+@media (min-width: 1200px) and (max-width: 1399px) {
+  /* common css part start */
+  .text {
+    font-size: 18px;
+  }
+  .theme__btn {
+    font-size: 20px;
+  }
+  .content__btn {
+    font-size: 16px;
+  }
+  /* common css part end */
+  /* banner part css start  */
+  section#banner {
+    padding: 140px 0;
+  }
+  .banner__title {
+    font-size: 78px;
+  }
+  .banner--text {
+    font-size: 22px;
+  }
+  /* banner part css end  */
+  /* about part css start  */
+
+  .edu__session,
+  .exp__session {
+    font-size: 16px;
+  }
+  .edu__institute,
+  .edu__address,
+  .exp__institute,
+  .exp__address,
+  .exp__duration {
+    font-size: 16px;
+  }
+  /* about part css end  */
+  /* portfolio part css start  */
+  .portfolio__menu li.portfolio__menu__item {
+    font-size: 20px;
+  }
+  h4.portfolio__item__title {
+    font-size: 20px;
+  }
+  h6.Date {
+    font-size: 16px;
+  }
+  .portfolio__tag__title {
+    font-size: 18px;
+  }
+  h6.portfolio__tag {
+    font-size: 16px;
+  }
+  /* portfolio part css end  */
+  /* feedback part css start  */
+
+  /* feedback part css end  */
+  /* service part css start  */
+  .service__item i.fa-solid {
+    font-size: 72px;
+  }
+
+  /* service part css end  */
+  /* price part css start  */
+  h4.price__item__title {
+    font-size: 24px;
+  }
+  ul.price__nav li h4 {
+    font-size: 18px;
+  }
+  ul.price__nav li h6 {
+    font-size: 16px;
+  }
+  /* price part css end  */
+  /* blog part css start  */
+  h4.blog__item__title {
+    font-size: 22px;
+  }
+  .blog__author,
+  .blog__date {
+    font-size: 16px;
+  }
+  /* blog part css end  */
+  /* contact part css start  */
+
+  .phone__num,
+  .email__addr,
+  .location__details h5 {
+    font-size: 18px;
+  }
+  .form__name label,
+  .form__email label,
+  .form__subject label,
+  .form__message label {
+    font-size: 18px;
+  }
+  #name,
+  #email,
+  #subject,
+  #message {
+    font-size: 20px;
+  }
+  /* contact part css end  */
+  /* footer part css start  */
+  footer#footer {
+    padding-top: 80px;
+  }
+  .footer__logo {
+    margin-bottom: 28px;
+  }
+  .footer__title {
+    font-size: 28px;
+    margin-bottom: 24px;
+  }
+  ul.footer__menu li a {
+    font-size: 16px;
+  }
+  /* footer part css end  */
+}
+/*! 'lg' applies to medium devices (tablets, less than 992px) */
+@media (min-width: 992px) and (max-width: 1199px) {
+  /* common css part start */
+  .page__padding {
+    padding: 100px 0;
+  }
+  .page__subtitle {
+    font-size: 18px;
+  }
+  .content__title {
+    font-size: 22px;
+  }
+  .content__btn {
+    font-size: 16px;
+  }
+  .text {
+    font-size: 18px;
+  }
+  .theme__btn {
+    font-size: 20px;
+    padding: 12px 24px;
+  }
+  /* common css part end */
+
+  /* nav part css start  */
+  .nav-link {
+    font-size: 18px;
+    margin: 0 6px;
+  }
+  /* nav part css end  */
+  /* banner part css start  */
+  section#banner {
+    padding: 120px 0;
+  }
+  .banner__img__container {
+    width: 240px;
+    height: 240px;
+  }
+  .banner__img {
+    width: 64%;
+  }
+  h2.banner__subtitle {
+    font-size: 48px;
+  }
+  .banner__title {
+    font-size: 62px;
+  }
+  h3.banner__subtitle {
+    font-size: 30px;
+  }
+  .banner--text {
+    font-size: 20px;
+  }
+  /* banner part css end  */
+  /* about part css start  */
+  .skill__title h6 {
+    font-size: 20px;
+  }
+  h3.counter__text {
+    font-size: 24px;
+  }
+  .edu__session,
+  .exp__session {
+    font-size: 16px;
+  }
+  .edu__institute,
+  .edu__address,
+  .exp__institute,
+  .exp__address,
+  .exp__duration {
+    font-size: 16px;
+  }
+  /* about part css end  */
+  /* portfolio part css start  */
+  .portfolio__menu li.portfolio__menu__item {
+    font-size: 20px;
+  }
+  h4.portfolio__item__title {
+    font-size: 20px;
+  }
+  h6.Date {
+    font-size: 16px;
+  }
+  .portfolio__tag__title {
+    font-size: 18px;
+  }
+  h6.portfolio__tag {
+    font-size: 16px;
+  }
+  /* portfolio part css end  */
+  /* feedback part css start  */
+
+  /* feedback part css end  */
+  /* service part css start  */
+  .service__item i.fa-solid {
+    font-size: 72px;
+  }
+
+  /* service part css end  */
+  /* price part css start  */
+  h4.price__item__title {
+    font-size: 20px;
+  }
+  ul.price__nav li h4 {
+    font-size: 18px;
+  }
+  ul.price__nav li h6 {
+    font-size: 15px;
+  }
+  /* price part css end  */
+  /* blog part css start  */
+  h4.blog__item__title {
+    font-size: 20px;
+  }
+  .blog__author,
+  .blog__date {
+    font-size: 16px;
+  }
+  /* blog part css end  */
+  /* contact part css start  */
+  .phone__icon,
+  .email__icon,
+  .location__icon {
+    width: 68px;
+    height: 68px;
+  }
+  .phone__icon i.fa-solid,
+  .email__icon i.fa-solid,
+  .location__icon i.fa-solid {
+    font-size: 42px;
+  }
+  .phone__num,
+  .email__addr,
+  .location__details h5 {
+    font-size: 16px;
+  }
+  .form__name label,
+  .form__email label,
+  .form__subject label,
+  .form__message label {
+    font-size: 16px;
+  }
+  #name,
+  #email,
+  #subject,
+  #message {
+    font-size: 18px;
+  }
+  /* contact part css end  */
+  /* footer part css start  */
+  footer#footer {
+    padding-top: 80px;
+  }
+  .footer__logo {
+    margin-bottom: 22px;
+  }
+  .footer__title {
+    font-size: 22px;
+    margin-bottom: 22px;
+  }
+  ul.footer__menu li a {
+    font-size: 16px;
+  }
+  /* footer part css end  */
+
+  /* extra popup part css start  */
+  #page__up {
+    width: 36px;
+    height: 36px;
+    bottom: 40px;
+    right: 40px;
+  }
+  .page__up__icon i.fa-solid {
+    font-size: 20px;
+  }
+  /* extra popup part css end  */
+}
+/*! 'md' applies to small devices (landscape phones, less than 768px) */
+@media (min-width: 768px) and (max-width: 991px) {
+  /* common css part start */
+  .page__padding {
+    padding: 100px 0;
+  }
+  .page__subtitle {
+    font-size: 18px;
+  }
+  .content__title {
+    font-size: 22px;
+  }
+  .content__btn {
+    font-size: 15px;
+  }
+  .text {
+    font-size: 16px;
+    line-height: 140%;
+  }
+  .theme__btn {
+    font-size: 20px;
+    padding: 12px 24px;
+  }
+  /* common css part end */
+
+  /* nav part css start  */
+  .nav-link {
+    font-size: 18px;
+  }
+  #navbarSupportedContent {
+    text-align: center;
+    padding: 28px 0;
+  }
+  .navbar-toggler,
+  .navbar-toggler:focus,
+  button:focus:not(:focus-visible) {
+    border: none;
+    outline: none;
+    box-shadow: none;
+  }
+  .navbar-toggler .fa-solid.fa-home {
+    color: var(--text-color);
+  }
+  .dark__theme.navbar-toggler .fa-solid.fa-home {
+    color: var(--text-color);
+  }
+  .nav__icon {
+    display: none;
+  }
+  /* nav part css end  */
+  /* banner part css start  */
+  section#banner {
+    padding: 120px 0;
+  }
+  .banner__img__container {
+    width: 320px;
+    height: 320px;
+  }
+  .banner__img {
+    width: 76%;
+  }
+  .social__menu li a {
+    margin: 0 4px;
+  }
+  h2.banner__subtitle {
+    font-size: 42px;
+  }
+  .banner__title {
+    font-size: 48px;
+  }
+  h3.banner__subtitle {
+    font-size: 26px;
+  }
+  .banner--text {
+    font-size: 18px;
+  }
+  /* banner part css end  */
+  /* about part css start  */
+  .skill__title h6 {
+    font-size: 18px;
+  }
+  .counter__icon .fa-solid {
+    font-size: 56px;
+  }
+  h3.counter__num {
+    font-size: 42px;
+  }
+  h3.counter__text {
+    font-size: 24px;
+  }
+  .edu__session,
+  .exp__session {
+    font-size: 16px;
+  }
+  .edu__institute,
+  .edu__address,
+  .exp__institute,
+  .exp__address,
+  .exp__duration {
+    font-size: 16px;
+  }
+  /* about part css end  */
+  /* portfolio part css start  */
+  .portfolio__menu li {
+    margin: 4px 0;
+  }
+  .portfolio__menu li.portfolio__menu__item {
+    font-size: 18px;
+    padding: 8px 2px;
+  }
+  h4.portfolio__item__title {
+    font-size: 18px;
+  }
+  h6.Date {
+    font-size: 15px;
+  }
+  .portfolio__tag__title {
+    font-size: 18px;
+  }
+  h6.portfolio__tag {
+    font-size: 16px;
+  }
+  /* portfolio part css end  */
+  /* feedback part css start  */
+  .feedback__item__img {
+    width: 180px;
+  }
+  h3.feedback__author__name {
+    font-size: 42px;
+  }
+  h5.feedback__author__ocupation {
+    font-size: 16px;
+  }
+  .slider__btn {
+    width: 48px;
+    height: 48px;
+    font-size: 22px;
+  }
+  /* feedback part css end  */
+  /* service part css start  */
+  .service__item i.fa-solid {
+    font-size: 64px;
+  }
+  h4.service__item__title {
+    font-size: 26px;
+  }
+  /* service part css end  */
+  /* price part css start  */
+  h4.price__item__title {
+    font-size: 20px;
+  }
+  ul.price__nav li h4 {
+    font-size: 18px;
+  }
+  ul.price__nav li h6 {
+    font-size: 15px;
+  }
+  /* price part css end  */
+  /* blog part css start  */
+  h4.blog__item__title {
+    font-size: 18px;
+  }
+  .blog__author,
+  .blog__date {
+    font-size: 15px;
+  }
+  /* blog part css end  */
+  /* contact part css start  */
+  .phone__icon,
+  .email__icon,
+  .location__icon {
+    width: 48px;
+    height: 48px;
+  }
+  .phone__icon i.fa-solid,
+  .email__icon i.fa-solid,
+  .location__icon i.fa-solid {
+    font-size: 30px;
+  }
+  .phone__num,
+  .email__addr,
+  .location__details h5 {
+    font-size: 16px;
+  }
+  .form__name label,
+  .form__email label,
+  .form__subject label,
+  .form__message label {
+    font-size: 14px;
+  }
+  #name,
+  #email,
+  #subject,
+  #message {
+    font-size: 16px;
+  }
+  /* contact part css end  */
+  /* footer part css start  */
+  footer#footer {
+    padding-top: 80px;
+  }
+  .footer__logo {
+    margin-bottom: 16px;
+  }
+  .footer__title {
+    font-size: 22px;
+    margin-bottom: 20px;
+  }
+  ul.footer__menu li a {
+    font-size: 16px;
+  }
+  /* footer part css end  */
+
+  /* extra popup part css start  */
+  #page__up {
+    width: 36px;
+    height: 36px;
+    bottom: 20px;
+    right: 20px;
+  }
+  .page__up__icon i.fa-solid {
+    font-size: 20px;
+  }
+  /* extra popup part css end  */
+}
+/*! 'sm' applies to x-small devices (portrait phones, less than 576px) */
+@media (min-width: 576px) and (max-width: 767px) {
+  /* common css part start */
+  .page__padding {
+    padding: 80px 0;
+  }
+  .page__title {
+    font-size: 42px;
+  }
+  .page__subtitle {
+    font-size: 16px;
+  }
+  .content__title {
+    font-size: 20px;
+  }
+  .content__btn {
+    font-size: 14px;
+  }
+  .text {
+    font-size: 16px;
+    line-height: 140%;
+  }
+  .theme__btn {
+    font-size: 18px;
+    padding: 10px 20px;
+  }
+  /* common css part end */
+
+  /* nav part css start  */
+  .nav-link {
+    font-size: 18px;
+  }
+  #navbarSupportedContent {
+    text-align: center;
+    padding: 28px 0;
+  }
+  .navbar-toggler,
+  .navbar-toggler:focus,
+  button:focus:not(:focus-visible) {
+    border: none;
+    outline: none;
+    box-shadow: none;
+  }
+  .navbar-toggler .fa-solid.fa-home {
+    color: var(--text-color);
+  }
+  .dark__theme.navbar-toggler .fa-solid.fa-home {
+    color: var(--text-color);
+  }
+  .nav__icon {
+    display: none;
+  }
+  /* nav part css end  */
+  /* banner part css start  */
+  section#banner {
+    padding: 120px 0;
+  }
+  .banner__img__container {
+    width: 320px;
+    height: 320px;
+  }
+  .banner__img {
+    width: 76%;
+  }
+  .social__menu li a {
+    margin: 0 4px;
+  }
+  h2.banner__subtitle {
+    font-size: 28px;
+  }
+  .banner__title {
+    font-size: 34px;
+  }
+  h3.banner__subtitle {
+    font-size: 22px;
+  }
+  .banner--text {
+    font-size: 18px;
+  }
+  /* banner part css end  */
+  /* about part css start  */
+  .skill__title h6 {
+    font-size: 18px;
+  }
+  .counter__icon .fa-solid {
+    font-size: 48px;
+  }
+  h3.counter__num {
+    font-size: 38px;
+  }
+  h3.counter__text {
+    font-size: 24px;
+  }
+  .edu__session,
+  .exp__session {
+    font-size: 14px;
+  }
+  .edu__subject,
+  .exp__subject {
+    font-size: 18px;
+  }
+  .edu__institute,
+  .edu__address,
+  .exp__institute,
+  .exp__address,
+  .exp__duration {
+    font-size: 16px;
+  }
+  /* about part css end  */
+  /* portfolio part css start  */
+  .portfolio__menu li {
+    margin: 4px 0;
+  }
+  .portfolio__menu li.portfolio__menu__item {
+    font-size: 18px;
+  }
+  h4.portfolio__item__title {
+    font-size: 18px;
+  }
+  h6.Date {
+    font-size: 14px;
+  }
+  .portfolio__tag__title {
+    font-size: 16px;
+  }
+  h6.portfolio__tag {
+    font-size: 14px;
+  }
+  /* portfolio part css end  */
+  /* feedback part css start  */
+  .feedback__item__img {
+    width: 180px;
+  }
+  h3.feedback__author__name {
+    font-size: 32px;
+  }
+  h5.feedback__author__ocupation {
+    font-size: 15px;
+  }
+  .slider__btn {
+    width: 48px;
+    height: 48px;
+    font-size: 22px;
+  }
+  /* feedback part css end  */
+  /* service part css start  */
+  .service__item i.fa-solid {
+    font-size: 64px;
+  }
+  h4.service__item__title {
+    font-size: 24px;
+  }
+  /* service part css end  */
+  /* price part css start  */
+  h4.price__item__title {
+    font-size: 18px;
+  }
+  ul.price__nav li h4 {
+    font-size: 16px;
+  }
+  ul.price__nav li h6 {
+    font-size: 13px;
+  }
+  /* price part css end  */
+  /* blog part css start  */
+  h4.blog__item__title {
+    font-size: 16px;
+  }
+  .blog__author,
+  .blog__date {
+    font-size: 13px;
+  }
+  /* blog part css end  */
+  /* contact part css start  */
+  .phone__icon,
+  .email__icon,
+  .location__icon {
+    width: 48px;
+    height: 48px;
+  }
+  .phone__icon i.fa-solid,
+  .email__icon i.fa-solid,
+  .location__icon i.fa-solid {
+    font-size: 30px;
+  }
+  .phone__num,
+  .email__addr,
+  .location__details h5 {
+    font-size: 16px;
+  }
+  .form__name label,
+  .form__email label,
+  .form__subject label,
+  .form__message label {
+    font-size: 14px;
+  }
+  #name,
+  #email,
+  #subject,
+  #message {
+    font-size: 16px;
+  }
+  /* contact part css end  */
+  /* footer part css start  */
+  footer#footer {
+    padding-top: 80px;
+  }
+  .footer__logo {
+    margin-bottom: 16px;
+  }
+  .footer__title {
+    font-size: 22px;
+    margin-bottom: 20px;
+  }
+  ul.footer__menu li a {
+    font-size: 14px;
+  }
+  ul.footer__menu li {
+    padding: 2px 0;
+  }
+  /* footer part css end  */
+
+  /* extra popup part css start  */
+  #page__up {
+    width: 36px;
+    height: 36px;
+    bottom: 20px;
+    right: 20px;
+  }
+  .page__up__icon i.fa-solid {
+    font-size: 20px;
+  }
+  /* extra popup part css end  */
+}
+/*! 'sx' returns only a ruleset and no media query */
+@media (max-width: 575px) {
+  /* common css part start */
+  .page__padding {
+    padding: 80px 0;
+  }
+  .page__title {
+    font-size: 42px;
+  }
+  .page__subtitle {
+    font-size: 16px;
+  }
+  .content__title {
+    font-size: 20px;
+  }
+  .content__btn {
+    font-size: 14px;
+  }
+  .text {
+    font-size: 15px;
+    line-height: 140%;
+  }
+  .theme__btn {
+    font-size: 18px;
+    padding: 10px 20px;
+  }
+  /* common css part end */
+
+  /* nav part css start  */
+  .nav-link {
+    font-size: 18px;
+  }
+  #navbarSupportedContent {
+    text-align: center;
+    padding: 28px 0;
+  }
+  .navbar-toggler,
+  .navbar-toggler:focus,
+  button:focus:not(:focus-visible) {
+    border: none;
+    outline: none;
+    box-shadow: none;
+  }
+  .navbar-toggler .fa-solid.fa-home {
+    color: var(--text-color);
+  }
+  .dark__theme.navbar-toggler .fa-solid.fa-home {
+    color: var(--text-color);
+  }
+  .nav__icon {
+    display: none;
+  }
+  /* nav part css end  */
+  /* banner part css start  */
+  section#banner {
+    padding: 120px 0;
+  }
+  .banner__img__container {
+    width: 200px;
+    height: 200px;
+  }
+  .banner__img {
+    width: 64%;
+  }
+  .social__menu li a {
+    margin: 0 4px;
+  }
+  h2.banner__subtitle {
+    font-size: 28px;
+  }
+  .banner__title {
+    font-size: 34px;
+  }
+  h3.banner__subtitle {
+    font-size: 22px;
+  }
+  .banner--text {
+    font-size: 18px;
+  }
+  /* banner part css end  */
+  /* about part css start  */
+  .skill__title h6 {
+    font-size: 16px;
+  }
+  .timeline__left__shape {
+    display: none;
+  }
+  .timeline__right__shape {
+    display: none;
+  }
+  .timeline__box {
+    width: 100%;
+    margin: 25px 0;
+  }
+  .left-100 {
+    transform: translateX(0%);
+    -webkit-transform: translateX(0%);
+    -moz-transform: translateX(0%);
+    -ms-transform: translateX(0%);
+    -o-transform: translateX(0%);
+  }
+  .counter__icon .fa-solid {
+    font-size: 48px;
+  }
+  h3.counter__num {
+    font-size: 38px;
+  }
+  h3.counter__text {
+    font-size: 24px;
+  }
+  .edu__session,
+  .exp__session {
+    font-size: 14px;
+  }
+  .edu__subject,
+  .exp__subject {
+    font-size: 18px;
+  }
+  .edu__institute,
+  .edu__address,
+  .exp__institute,
+  .exp__address,
+  .exp__duration {
+    font-size: 14px;
+  }
+  /* about part css end  */
+  /* portfolio part css start  */
+  .portfolio__menu li {
+    margin: 4px 0;
+  }
+  .portfolio__menu li.portfolio__menu__item {
+    font-size: 18px;
+  }
+  h4.portfolio__item__title {
+    font-size: 18px;
+  }
+  h6.Date {
+    font-size: 14px;
+  }
+  .portfolio__tag__title {
+    font-size: 16px;
+  }
+  h6.portfolio__tag {
+    font-size: 14px;
+  }
+  /* portfolio part css end  */
+  /* feedback part css start  */
+  .feedback__item__img {
+    width: 180px;
+  }
+  h3.feedback__author__name {
+    font-size: 32px;
+  }
+  h5.feedback__author__ocupation {
+    font-size: 15px;
+  }
+  .slider__btn {
+    width: 48px;
+    height: 48px;
+    font-size: 22px;
+  }
+  /* feedback part css end  */
+  /* service part css start  */
+  .service__item i.fa-solid {
+    font-size: 64px;
+  }
+  h4.service__item__title {
+    font-size: 24px;
+  }
+  /* service part css end  */
+  /* price part css start  */
+  h4.price__item__title {
+    font-size: 18px;
+  }
+  ul.price__nav li h4 {
+    font-size: 16px;
+  }
+  ul.price__nav li h6 {
+    font-size: 13px;
+  }
+  /* price part css end  */
+  /* blog part css start  */
+  h4.blog__item__title {
+    font-size: 16px;
+  }
+  .blog__author,
+  .blog__date {
+    font-size: 13px;
+  }
+  /* blog part css end  */
+  /* contact part css start  */
+  .phone__icon,
+  .email__icon,
+  .location__icon {
+    width: 48px;
+    height: 48px;
+  }
+  .phone__icon i.fa-solid,
+  .email__icon i.fa-solid,
+  .location__icon i.fa-solid {
+    font-size: 30px;
+  }
+  .phone__num,
+  .email__addr,
+  .location__details h5 {
+    font-size: 14px;
+  }
+  .form__name label,
+  .form__email label,
+  .form__subject label,
+  .form__message label {
+    font-size: 14px;
+  }
+  #name,
+  #email,
+  #subject,
+  #message {
+    font-size: 15px;
+  }
+  /* contact part css end  */
+  /* footer part css start  */
+  footer#footer {
+    padding-top: 80px;
+  }
+  .footer__logo {
+    margin-bottom: 16px;
+  }
+  .footer__title {
+    font-size: 20px;
+    margin-bottom: 20px;
+  }
+  ul.footer__menu li a {
+    font-size: 14px;
+  }
+  ul.footer__menu li {
+    padding: 2px 0;
+  }
+  /* footer part css end  */
+
+  /* extra popup part css start  */
+  #page__up {
+    width: 36px;
+    height: 36px;
+    bottom: 20px;
+    right: 20px;
+  }
+  .page__up__icon i.fa-solid {
+    font-size: 20px;
+  }
+  /* extra popup part css end  */
+}
